@@ -1,5 +1,10 @@
 # 💫 About Me:
-I am currently working on A full-stack Drop Shop web application<br>I am currently learning advanced backend development using Node.js
+Hello there! I'm Md. Abir Mahmud, a passionate and dedicated individual hailing from the vibrant land of Bangladesh. Currently, on the exciting journey of pursuing my bachelor's degree, I am also a proficient MERN stack developer. My expertise lies in crafting dynamic and efficient web applications using MongoDB, Express.js, React, and Node.js. <br><br>
+
+With a keen eye for detail and a love for problem-solving, I bring a creative and analytical approach to my projects. Constantly seeking to expand my knowledge and skill set, I am committed to staying at the forefront of web development trends.<br><br>
+
+Join me on my coding adventures as I contribute to the world of technology, one line of code at a time. Let's build the future together!<br><br>
+
 
 
 ## 🌐 Socials:
