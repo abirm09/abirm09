@@ -30,28 +30,30 @@ I enjoy taking a feature from idea to production: understanding the user problem
 
 | Area | Tools |
 | --- | --- |
-| Languages | TypeScript, JavaScript, SQL |
-| Frontend | React, Next.js, React Native, Expo, Tailwind CSS |
+| Languages | TypeScript, JavaScript |
+| Frontend | React, Next.js, React Native, Expo |
 | Backend | Node.js, NestJS, Express.js |
 | Data | PostgreSQL, Prisma, Redis, MongoDB |
-| AI | LangChain, LLM integrations |
-| Tools | Git, Docker, Postman, Vercel, AWS EC2 |
+| AI (exploring) | LangChain, LLM application development |
 
 ## Selected projects
 
-### [WeeURL](https://github.com/abirm09/wee-url-server) · [Client](https://github.com/abirm09/wee-url-client)
+### [PixlCart](https://pixlcart.com) · [Admin demo](https://demo.pixlcart.com/admin) · [Case study](https://zenpixl.com/case-studies/pixlcart)
 
-A URL-shortening product with link analytics, custom aliases, authentication, rate limiting, and optional paid plans.
+A multi-tenant commerce platform with customer storefronts and merchant dashboards. Each store gets an isolated database, with automatic provisioning and domain-based routing. The platform also supports product and order management, shipping integrations, and dedicated single-tenant deployments.
 
-**Stack:** TypeScript, Next.js, Express, PostgreSQL, Prisma, Redis, Stripe
-
-[Live app](https://weeurl.abirmahmud.top) · [API docs](https://weeurl.srv.abirmahmud.top/api/v1/docs)
+**Role:** Product Owner & Lead Engineer  
+**Stack:** TypeScript, Node.js, Express, Next.js, PostgreSQL, Prisma, Zod, Docker
 
 ### [Expense Tracker](https://github.com/abirm09/expense-tracker-native-app)
 
 A multi-user mobile expense tracker for accounts, transactions, budgets, and categories, built with per-user data isolation.
 
 **Stack:** React Native, Expo, Supabase
+
+### [Oneself](https://oneselfbd.com)
+
+An online store for gadgets and home electronics, with product listings, featured deals, stock availability, and customer support.
 
 ### [Electro Commerce API](https://github.com/abirm09/Electro-Commerce-Server-Side) · [Client](https://github.com/abirm09/Electro-Commerce-client-Side)
 
